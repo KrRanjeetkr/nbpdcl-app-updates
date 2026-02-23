@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "5.4",
-  "apkUrl": "https://github.com/KrRanjeetkr/nbpdcl-app-updates/releases/download/v5.4/app_update.apk",
+  "versionCode": 45,
+  "versionName": "5.5",
+  "apkUrl": "https://github.com/KrRanjeetkr/nbpdcl-app-updates/releases/download/v5.5/app_update.apk",
   "forceUpdate": true,
   "message": "New version available. Please update to continue using the app."
 }
